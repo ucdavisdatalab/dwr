@@ -24,9 +24,12 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-# Bookdown intermediate files
-_main.rds
+# Intermediate files
+_main*
 docs/*.md
-.Rproj.user
+_build/*
 
 /.quarto/
+# pixi environments
+.pixi/*
+!.pixi/config.toml

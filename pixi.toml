@@ -1,0 +1,16 @@
+[workspace]
+authors = ["Nick Ulle <nick.ulle@gmail.com>"]
+channels = ["conda-forge"]
+name = "dwr"
+platforms = ["linux-64", "osx-64", "osx-arm64", "win-64"]
+version = "2026"
+
+[tasks]
+build = { cmd = "quarto render", description = "Build the site." }
+publish = { cmd = "ghp-import --no-jekyll --no-history --push _build", description = "Publish the site to the `gh-pages` branch on GitHub." }
+clean = { cmd = "rm -rf _build/", description = "Remove the build directory." }
+rebuild = { depends-on = ["clean", "build"], description = "Remove the build directory and build the site." }
+
+[dependencies]
+ghp-import = ">=2.1.0,<3"
+quarto = ">=1.8.27,<2"

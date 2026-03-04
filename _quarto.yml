@@ -1,41 +1,33 @@
 project:
-  type: book
-  render:  # only render index.qmd and .qmd files in chapters/
+  type: website
+  render:  # only render index.qmd
     - "index.qmd"
-    - "chapters/*.qmd"
   execute-dir: project  # working directory is always root of project
-  output-dir: "docs/"
+  output-dir: "_build/"
 
-book:
+website:
   # Metadata (fill this in):
-  repo-url: "https://github.com/ucdavisdatalab/WORKSHOP_NAME"
-  title: "WORKSHOP_TITLE"
-  author:
-    - "AUTHOR_NAME"
-  chapters:
-    - "index.qmd"
-    # List your chapters in order here.
-    - "chapters/references.qmd"
-    - "chapters/assessment.qmd"
-
-  # Formatting (be careful about changing these):
-  date: now
+  title: "DWR Training Materials"
+  search: false
+  repo-url: "https://github.com/ucdavisdatalab/dwr"
   repo-actions: [issue, source]
-  sidebar:
-    logo: "images/datalab-logo-full-color-rgb-1.png"
+  image: "images/datalab-logo-full-color-rgb.png"
+  navbar:
+    title: false
+    logo: "images/datalab-logo-full-color-rgb.png"
     logo-alt: "The logo of the UC Davis DataLab."
     logo-href: "https://datalab.ucdavis.edu/"
+    pinned: true  # always display
 
 format:
   html:
     theme: cosmo
     toc: true
-  # Uncomment to also generate a PDF:
-  # pdf: default
-
-# Uncommentt if you want to use BibTex or BibLaTeX references.
-# bibliography: references.bib
-
-# Cache computations from each chapter:
-execute:
-  freeze: auto
+    include-in-header:
+      - text: |
+          <style>
+          .navbar-logo {
+            max-height: 3em;
+            max-width: 50vw;
+          }
+          </style>

@@ -1,11 +1,31 @@
-# Overview {.unnumbered}
+---
+title: "DWR Training Materials"
+author:
+  - name: "DataLab"
+    url: "https://datalab.ucdavis.edu/"
+    affiliations: "University of California, Davis"
+date: today
+---
 
 :::{.callout-note}
-##### Learning Goals
+Looking for more information about DataLab workshops?
 
-After completing this chapter, learners should be able to:
+Take a look at our [Workshop Descriptions and Materials
+page][datalab-workshops].
 
-* YOUR LEARNING GOALS
+[datalab-workshops]: https://datalab.ucdavis.edu/workshops/descriptions/
 :::
 
-YOUR DESCRIPTION, PREREQUISITES, ETC
+
+## R Basics
+
+* 10-4pm on Mar 5, 12 in [Shields 360][loc] and on Zoom
+* [Workshop Reader][r-basics]
+
+[loc]: https://datalab.ucdavis.edu/location/
+[r-basics]: https://ucdavisdatalab.github.io/dwr_workshop_r_basics/
+
+
+## Intro to Reproducible and Collaborative Computational Practices, Part 1
+
+* Mar 19 in [Shields 360][loc] and on Zoom
