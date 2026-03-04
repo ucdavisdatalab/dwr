@@ -36,6 +36,14 @@ directly:
 _Workshops are listed from most recent to least recent._  
 
 
+## Working with Temporal Data
+
+* 10-noon on Oct 15 in [Shields 360][loc] and on Zoom
+* [Workshop Reader][stats-temporal]
+
+[stats-temporal]: https://ucdavisdatalab.github.io/dwr_workshop_statistics/chapters/temporal-data/
+
+
 ## Introduction to Applied Statistics
 
 * 10-noon on Oct 1, 8 in [Shields 360][loc] and on Zoom
