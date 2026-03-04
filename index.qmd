@@ -36,6 +36,13 @@ directly:
 _Workshops are listed from most recent to least recent._  
 
 
+## Working with Missing and Censored Data
+
+* 10-noon on Oct 29 in [Shields 360][loc] and on Zoom
+* [Workshop Reader][stats-missing]
+
+[stats-missing]: https://ucdavisdatalab.github.io/dwr_workshop_statistics/chapters/censored-data/
+
 ## Working with Temporal Data
 
 * 10-noon on Oct 15 in [Shields 360][loc] and on Zoom
