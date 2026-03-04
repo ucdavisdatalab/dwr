@@ -40,6 +40,10 @@ _Workshops are listed from most recent to least recent._
 
 * 10-noon on Oct 29 in [Shields 360][loc] and on Zoom
 * [Workshop Reader][stats-missing]
+* Live-coded notes:
+    + [`2026-10-29_notes.R`][2026-10-29_notes]
+
+[2026-10-29_notes]: https://github.com/ucdavisdatalab/dwr_workshop_statistics/blob/main/notes/2026-10-29_notes.R
 
 [stats-missing]: https://ucdavisdatalab.github.io/dwr_workshop_statistics/chapters/censored-data/
 
@@ -47,6 +51,10 @@ _Workshops are listed from most recent to least recent._
 
 * 10-noon on Oct 15 in [Shields 360][loc] and on Zoom
 * [Workshop Reader][stats-temporal]
+* Live-coded notes:
+    + [`2026-10-15_notes.R`][2026-10-15_notes]
+
+[2026-10-15_notes]: https://github.com/ucdavisdatalab/dwr_workshop_statistics/blob/main/notes/2026-10-15_notes.R
 
 [stats-temporal]: https://ucdavisdatalab.github.io/dwr_workshop_statistics/chapters/temporal-data/
 
@@ -57,8 +65,10 @@ _Workshops are listed from most recent to least recent._
 * [Workshop Reader][stats-intro-applied]
 * Live-coded notes:
     + [`2026-10-01_notes.R`][2026-10-01_notes]
+    + [`2026-10-08_notes.R`][2026-10-08_notes]
 
 [2026-10-01_notes]: https://github.com/ucdavisdatalab/dwr_workshop_statistics/blob/main/notes/2026-10-01_notes.R
+[2026-10-08_notes]: https://github.com/ucdavisdatalab/dwr_workshop_statistics/blob/main/notes/2026-10-08_notes.R
 
 [stats-intro-applied]: https://ucdavisdatalab.github.io/dwr_workshop_statistics/chapters/applied-statistics/
 
