@@ -8,10 +8,16 @@ project:
 website:
   # Metadata (fill this in):
   title: "DWR Training Materials"
+  description: "Link tree for CA Department of Water Resources (DWR) training materials."
   search: false
   repo-url: "https://github.com/ucdavisdatalab/dwr"
   repo-actions: [issue, source]
-  image: "images/datalab-logo-full-color-rgb.png"
+  site-url: "https://ucdavisdatalab.github.io/dwr"
+  favicon: "/images/datalab-logo_square_150x150.png"
+  image: "/images/datalab-logo-full-color-rgb.png"
+  image-alt: "The logo of the UC Davis DataLab."
+  open-graph: true
+  twitter-card: true
   navbar:
     title: false
     logo: "images/datalab-logo-full-color-rgb.png"
