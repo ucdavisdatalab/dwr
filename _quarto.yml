@@ -32,6 +32,9 @@ format:
     include-in-header:
       - text: |
           <style>
+          .callout.callout-style-default .callout-body {
+            padding: 0 1.5rem 0;
+          }
           .navbar-logo {
             max-height: 3em;
             max-width: 50vw;
