@@ -7,13 +7,28 @@ author:
 date: today
 ---
 
-:::{.callout-note}
-Looking for more information about DataLab workshops?
+:::{.callout-note title="Frequently Asked Questions"}
+
+**Where can I find more information about DataLab workshops?**
 
 Take a look at our [Workshop Descriptions and Materials
 page][datalab-workshops].
 
 [datalab-workshops]: https://datalab.ucdavis.edu/workshops/descriptions/
+
+**How can I contact DataLab?**
+
+Email [datalab@ucdavis.edu][].
+
+For questions about a workshop you attended, you can also email the instructors
+directly:
+
+* Nick Ulle ([naulle@ucdavis.edu][])
+* Pamela Reynolds ([plreynolds@ucdavis.edu][])
+
+[datalab@ucdavis.edu]: mailto:datalab@ucdavis.edu
+[naulle@ucdavis.edu]: mailto:naulle@ucdavis.edu
+[plreynolds@ucdavis.edu]: mailto:plreynolds@ucdavis.edu
 :::
 
 
