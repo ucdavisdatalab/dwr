@@ -49,4 +49,7 @@ directly:
 
 ## Intro to Reproducible and Collaborative Computational Practices, Part 1
 
-* Mar 19 in [Shields 360][loc] and on Zoom
+* 10-5pm on Mar 19 in [Shields 360][loc] and on Zoom
+* [Workshop Reader][research-computing]
+
+[research-computing]: https://ucdavisdatalab.github.io/dwr_workshop_research_computing/
