@@ -53,3 +53,16 @@ directly:
 * [Workshop Reader][research-computing]
 
 [research-computing]: https://ucdavisdatalab.github.io/dwr_workshop_research_computing/
+
+
+## Intermediate R
+
+* All sessions are 10-noon in [Shields 360][loc] and on Zoom
+* Standalone sessions (attend any or all):
+    + Apr 2 -- Next-level Data Visualization (with ggplot2)
+    + Apr 9, Apr 16 -- Cleaning & Reshaping Data
+    + Apr 23 -- Best Practices for Writing R Scripts
+    + Apr 30 -- Squashing Bugs with R's Debugging Tools
+* [Workshop Reader][intermediate-r]
+
+[intermediate-r]: https://ucdavisdatalab.github.io/dwr_workshop_intermediate_r/
