@@ -37,8 +37,8 @@ directly:
 * 10-4pm on Mar 5, 12 in [Shields 360][loc] and on Zoom
 * [Workshop Reader][r-basics] ([PDF][pdf-r-basics])
 * Live-coded notes:
-    - [`2026-03-05_notes.R`][2026-03-05_notes]
-    - [`2026-03-12_notes.R`][2026-03-12_notes]
+    + [`2026-03-05_notes.R`][2026-03-05_notes]
+    + [`2026-03-12_notes.R`][2026-03-12_notes]
 
 [loc]: https://datalab.ucdavis.edu/location/
 [r-basics]: https://ucdavisdatalab.github.io/dwr_workshop_r_basics/
@@ -64,5 +64,9 @@ directly:
     + Apr 23 -- Best Practices for Writing R Scripts
     + Apr 30 -- Squashing Bugs with R's Debugging Tools
 * [Workshop Reader][intermediate-r]
+* Live-coded notes:
+    + [`2026-04-02_notes.R`][2026-04-02_notes]
+
+[2026-04-02_notes]: https://github.com/ucdavisdatalab/dwr_workshop_intermediate_r/blob/nu-dwr/notes/2026-04-02_notes.R
 
 [intermediate-r]: https://ucdavisdatalab.github.io/dwr_workshop_intermediate_r/
