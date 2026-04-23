@@ -67,8 +67,10 @@ directly:
 * Live-coded notes:
     + [`2026-04-02_notes.R`][2026-04-02_notes]
     + [`2026-04-09_notes.R`][2026-04-09_notes]
+    + [`2026-04-16_notes.R`][2026-04-16_notes]
 
 [2026-04-02_notes]: https://github.com/ucdavisdatalab/dwr_workshop_intermediate_r/blob/nu-dwr/notes/2026-04-02_notes.R
 [2026-04-09_notes]: https://github.com/ucdavisdatalab/dwr_workshop_intermediate_r/blob/nu-dwr/notes/2026-04-09_notes.R
+[2026-04-16_notes]: https://github.com/ucdavisdatalab/dwr_workshop_intermediate_r/blob/nu-dwr/notes/2026-04-16_notes.R
 
 [intermediate-r]: https://ucdavisdatalab.github.io/dwr_workshop_intermediate_r/
