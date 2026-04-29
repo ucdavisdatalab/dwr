@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "DWR Training Materials",
+    "section": "",
+    "text": "NoteFrequently Asked Questions\n\n\n\nWhere can I find more information about DataLab workshops?\nTake a look at our Workshop Descriptions and Materials page.\nHow can I contact DataLab?\nEmail datalab@ucdavis.edu.\nFor questions about a workshop you attended, you can also email the instructors directly:\n\nNick Ulle (naulle@ucdavis.edu)\nPamela Reynolds (plreynolds@ucdavis.edu)\nWesley Brooks (wbrooks@ucdavis.edu)"
+  },
+  {
+    "objectID": "index.html#r-basics",
+    "href": "index.html#r-basics",
+    "title": "DWR Training Materials",
+    "section": "R Basics",
+    "text": "R Basics\n\n10-4pm on Mar 5, 12 in Shields 360 and on Zoom\nWorkshop Reader (PDF)\nLive-coded notes:\n\n2026-03-05_notes.R\n2026-03-12_notes.R"
+  },
+  {
+    "objectID": "index.html#intro-to-reproducible-and-collaborative-computational-practices-part-1",
+    "href": "index.html#intro-to-reproducible-and-collaborative-computational-practices-part-1",
+    "title": "DWR Training Materials",
+    "section": "Intro to Reproducible and Collaborative Computational Practices, Part 1",
+    "text": "Intro to Reproducible and Collaborative Computational Practices, Part 1\n\n10-5pm on Mar 19 in Shields 360 and on Zoom\nWorkshop Reader"
+  },
+  {
+    "objectID": "index.html#intermediate-r",
+    "href": "index.html#intermediate-r",
+    "title": "DWR Training Materials",
+    "section": "Intermediate R",
+    "text": "Intermediate R\n\nAll sessions are 10-noon in Shields 360 and on Zoom\nStandalone sessions (attend any or all):\n\nApr 2 – Next-level Data Visualization (with ggplot2)\nApr 9, Apr 16 – Cleaning & Reshaping Data\nApr 23 – Best Practices for Writing R Scripts\nApr 30 – Squashing Bugs with R’s Debugging Tools\n\nWorkshop Reader\nLive-coded notes:\n\n2026-04-02_notes.R\n2026-04-09_notes.R\n2026-04-16_notes.R\n2026-04-23.R"
+  },
+  {
+    "objectID": "index.html#intro-to-reproducible-and-collaborative-computational-practices-part-2",
+    "href": "index.html#intro-to-reproducible-and-collaborative-computational-practices-part-2",
+    "title": "DWR Training Materials",
+    "section": "Intro to Reproducible and Collaborative Computational Practices, Part 2",
+    "text": "Intro to Reproducible and Collaborative Computational Practices, Part 2\n\n10-noon on May 7, 14, 21 in Shields 360 and on Zoom\nWorkshop Reader"
+  }
+]
