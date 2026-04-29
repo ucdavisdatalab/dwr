@@ -78,3 +78,9 @@ directly:
 [2026-04-23_notes]: https://github.com/ucdavisdatalab/dwr_workshop_intermediate_r/blob/main/R/bart/2026-04-23.R
 
 [intermediate-r]: https://ucdavisdatalab.github.io/dwr_workshop_intermediate_r/
+
+
+## Intro to Reproducible and Collaborative Computational Practices, Part 2
+
+* 10-noon on May 7, 14, 21 in [Shields 360][loc] and on Zoom
+* [Workshop Reader][research-computing]
