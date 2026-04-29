@@ -25,10 +25,12 @@ directly:
 
 * Nick Ulle ([naulle@ucdavis.edu][])
 * Pamela Reynolds ([plreynolds@ucdavis.edu][])
+* Wesley Brooks ([wbrooks@ucdavis.edu][])
 
 [datalab@ucdavis.edu]: mailto:datalab@ucdavis.edu
 [naulle@ucdavis.edu]: mailto:naulle@ucdavis.edu
 [plreynolds@ucdavis.edu]: mailto:plreynolds@ucdavis.edu
+[wbrooks@ucdavis.edu]: mailto:wbrooks@ucdavis.edu
 :::
 
 
