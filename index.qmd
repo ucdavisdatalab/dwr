@@ -36,6 +36,14 @@ directly:
 _Workshops are listed from most recent to least recent._  
 
 
+## Exploring Data
+
+* 10-noon on Sep 24 in [Shields 360][loc] and on Zoom
+* [Workshop Reader][stats-exploring-data]
+
+[stats-exploring-data]: https://ucdavisdatalab.github.io/dwr_workshop_statistics/chapters/exploring-data/
+
+
 ## Intro to Reproducible and Collaborative Computational Practices, Part 2
 
 * 10-noon on May 7, 14, 21 in [Shields 360][loc] and on Zoom
