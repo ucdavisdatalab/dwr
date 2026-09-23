@@ -33,28 +33,13 @@ directly:
 [wbrooks@ucdavis.edu]: mailto:wbrooks@ucdavis.edu
 :::
 
-
-## R Basics
-
-* 10-4pm on Mar 5, 12 in [Shields 360][loc] and on Zoom
-* [Workshop Reader][r-basics] ([PDF][pdf-r-basics])
-* Live-coded notes:
-    + [`2026-03-05_notes.R`][2026-03-05_notes]
-    + [`2026-03-12_notes.R`][2026-03-12_notes]
-
-[loc]: https://datalab.ucdavis.edu/location/
-[r-basics]: https://ucdavisdatalab.github.io/dwr_workshop_r_basics/
-[pdf-r-basics]: https://drive.google.com/file/d/1oW5RAoRgla-B8HtDSwD6g_UB_JCmPnG5/view?usp=sharing
-[2026-03-05_notes]: https://github.com/ucdavisdatalab/dwr_workshop_r_basics/blob/main/notes/2026_dwr_training/2026-03-05_notes.R
-[2026-03-12_notes]: https://github.com/ucdavisdatalab/dwr_workshop_r_basics/blob/main/notes/2026_dwr_training/2026-03-12_notes.R
+_Workshops are listed from most recent to least recent._  
 
 
-## Intro to Reproducible and Collaborative Computational Practices, Part 1
+## Intro to Reproducible and Collaborative Computational Practices, Part 2
 
-* 10-5pm on Mar 19 in [Shields 360][loc] and on Zoom
+* 10-noon on May 7, 14, 21 in [Shields 360][loc] and on Zoom
 * [Workshop Reader][research-computing]
-
-[research-computing]: https://ucdavisdatalab.github.io/dwr_workshop_research_computing/
 
 
 ## Intermediate R
@@ -80,7 +65,24 @@ directly:
 [intermediate-r]: https://ucdavisdatalab.github.io/dwr_workshop_intermediate_r/
 
 
-## Intro to Reproducible and Collaborative Computational Practices, Part 2
+## Intro to Reproducible and Collaborative Computational Practices, Part 1
 
-* 10-noon on May 7, 14, 21 in [Shields 360][loc] and on Zoom
+* 10-5pm on Mar 19 in [Shields 360][loc] and on Zoom
 * [Workshop Reader][research-computing]
+
+[research-computing]: https://ucdavisdatalab.github.io/dwr_workshop_research_computing/
+
+
+## R Basics
+
+* 10-4pm on Mar 5, 12 in [Shields 360][loc] and on Zoom
+* [Workshop Reader][r-basics] ([PDF][pdf-r-basics])
+* Live-coded notes:
+    + [`2026-03-05_notes.R`][2026-03-05_notes]
+    + [`2026-03-12_notes.R`][2026-03-12_notes]
+
+[loc]: https://datalab.ucdavis.edu/location/
+[r-basics]: https://ucdavisdatalab.github.io/dwr_workshop_r_basics/
+[pdf-r-basics]: https://drive.google.com/file/d/1oW5RAoRgla-B8HtDSwD6g_UB_JCmPnG5/view?usp=sharing
+[2026-03-05_notes]: https://github.com/ucdavisdatalab/dwr_workshop_r_basics/blob/main/notes/2026_dwr_training/2026-03-05_notes.R
+[2026-03-12_notes]: https://github.com/ucdavisdatalab/dwr_workshop_r_basics/blob/main/notes/2026_dwr_training/2026-03-12_notes.R
