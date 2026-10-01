@@ -36,6 +36,14 @@ directly:
 _Workshops are listed from most recent to least recent._  
 
 
+## Introduction to Applied Statistics
+
+* 10-noon on Oct 1, 8 in [Shields 360][loc] and on Zoom
+* [Workshop Reader][stats-intro-applied]
+
+[stats-intro-applied]: https://ucdavisdatalab.github.io/dwr_workshop_statistics/chapters/applied-statistics/
+
+
 ## Exploring Data
 
 * 10-noon on Sep 24 in [Shields 360][loc] and on Zoom
