@@ -48,6 +48,10 @@ _Workshops are listed from most recent to least recent._
 
 * 10-noon on Sep 24 in [Shields 360][loc] and on Zoom
 * [Workshop Reader][stats-exploring-data]
+* Live-coded notes:
+    + [`2026-09-24_notes.R`][2026-09-24_notes]
+
+[2026-09-24_notes]: https://github.com/ucdavisdatalab/dwr_workshop_statistics/blob/main/notes/2026-09-24_notes.R
 
 [stats-exploring-data]: https://ucdavisdatalab.github.io/dwr_workshop_statistics/chapters/exploring-data/
 
