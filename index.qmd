@@ -40,6 +40,10 @@ _Workshops are listed from most recent to least recent._
 
 * 10-noon on Oct 1, 8 in [Shields 360][loc] and on Zoom
 * [Workshop Reader][stats-intro-applied]
+* Live-coded notes:
+    + [`2026-10-01_notes.R`][2026-10-01_notes]
+
+[2026-10-01_notes]: https://github.com/ucdavisdatalab/dwr_workshop_statistics/blob/main/notes/2026-10-01_notes.R
 
 [stats-intro-applied]: https://ucdavisdatalab.github.io/dwr_workshop_statistics/chapters/applied-statistics/
 
